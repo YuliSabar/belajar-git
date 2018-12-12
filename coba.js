@@ -1,2 +1,1 @@
-//tes comment
-//tes comment ke 2
+// Comment farras :)
